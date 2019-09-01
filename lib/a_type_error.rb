@@ -1,3 +1,3 @@
-1 + 1
+current_president = "Emre Senturk"
 
-"1" + "is the loneliest number"
+puts "ın 2023, the president will be #{current_president}"
